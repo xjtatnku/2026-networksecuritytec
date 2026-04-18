@@ -1,3 +1,0 @@
-/mnt/c/Users/xjt26/Desktop/网络安全技术/build/CMakeFiles/DES_chat.dir
-/mnt/c/Users/xjt26/Desktop/网络安全技术/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/xjt26/Desktop/网络安全技术/build/CMakeFiles/rebuild_cache.dir
